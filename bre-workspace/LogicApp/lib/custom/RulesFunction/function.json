@@ -1,5 +1,5 @@
 {
-  "Name": null,
+  "Name": "RulesFunction",
   "ScriptFile": "../bin/RulesFunction.dll",
   "FunctionDirectory": null,
   "EntryPoint": "BizTalkers.RulesFunction.RunRules",
